@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @jamilylinda444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jamilylinda444/jamilylinda444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 oi,eu sou a jamily dos santos pinheiro
+- 👀 estou aprendendo a programar jogos no scratch javascript
+- 🌱 tenho curiosidade em aprender a editar fotos,videos.
+- 💞️ contato: jamily.pinheiro@escola.pr.gov.br
